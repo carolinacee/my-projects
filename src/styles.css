@@ -53,8 +53,9 @@ li {
 .weather-form {
   margin-bottom: 20px;
 }
-a {
-  text-align: center;
+
+p {
   display: block;
   margin: 0 auto;
+  text-align: center;
 }
